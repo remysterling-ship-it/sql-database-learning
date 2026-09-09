@@ -18,6 +18,7 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `examples/01_schema.sql` | Creates a small bookstore database with relationships and constraints |
 | `examples/02_queries.sql` | Demonstrates beginner-to-intermediate queries |
 | `examples/03_indexes.sql` | Introduces indexes and simple query-plan inspection |
+| `jdbc-sample/` | Runnable Java 17 Maven project demonstrating JDBC with SQLite |
 
 ## Running the examples
 
@@ -27,6 +28,13 @@ The scripts use standard SQL and are suitable for PostgreSQL with minor adjustme
 psql -d learning_lab -f examples/01_schema.sql
 psql -d learning_lab -f examples/02_queries.sql
 psql -d learning_lab -f examples/03_indexes.sql
+```
+
+Run the JDBC sample from its project directory:
+
+```bash
+cd jdbc-sample
+mvn compile exec:java
 ```
 
 ## Learning approach
@@ -39,5 +47,6 @@ psql -d learning_lab -f examples/03_indexes.sql
 - Library management database
 - Expense tracker with monthly reports
 - Network inventory and incident log
+- Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
