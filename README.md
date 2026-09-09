@@ -24,6 +24,9 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `student-enrollment/` | Students, courses, sections, and many-to-many enrollment queries |
 | `library-management/` | Books, copies, authors, members, loans, and overdue reporting |
 | `expense-analytics/` | Accounts, budgets, transactions, and monthly spending analytics |
+| `inventory-control/` | Products, suppliers, warehouses, stock movements, and reorder analysis |
+| `restaurant-reservations/` | Guests, tables, bookings, capacity, and reservation reporting |
+| `job-portal/` | Companies, job postings, candidates, applications, and hiring pipelines |
 
 ## Running the examples
 
@@ -66,6 +69,12 @@ psql -d learning_lab -f library-management/01_schema.sql
 psql -d learning_lab -f library-management/02_queries.sql
 psql -d learning_lab -f expense-analytics/01_schema.sql
 psql -d learning_lab -f expense-analytics/02_queries.sql
+psql -d learning_lab -f inventory-control/01_schema.sql
+psql -d learning_lab -f inventory-control/02_queries.sql
+psql -d learning_lab -f restaurant-reservations/01_schema.sql
+psql -d learning_lab -f restaurant-reservations/02_queries.sql
+psql -d learning_lab -f job-portal/01_schema.sql
+psql -d learning_lab -f job-portal/02_queries.sql
 ```
 
 ## Learning approach
@@ -78,6 +87,10 @@ psql -d learning_lab -f expense-analytics/02_queries.sql
 - Library management database
 - Expense tracker with monthly reports
 - Network inventory and incident log
+
+## Inspiration
+
+The project themes are original learning implementations informed by [AssignmentDude’s database project ideas](https://assignmentdude.com/database-project-ideas/) and its discussion of SQL, ER design, normalization, and database performance topics. AssignmentDude is credited as inspiration; this repository is independently authored for educational practice and does not reproduce its content.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
