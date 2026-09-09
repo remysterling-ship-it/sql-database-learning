@@ -20,6 +20,7 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `examples/03_indexes.sql` | Introduces indexes and simple query-plan inspection |
 | `jdbc-sample/` | Runnable Java 17 Maven project demonstrating JDBC with SQLite |
 | `python-sqlite-sample/` | Dependency-free Python project demonstrating SQLite with `sqlite3` |
+| `normalization-query-optimization/` | PostgreSQL lab covering 1NF–3NF design and query-plan indexing |
 
 ## Running the examples
 
@@ -43,6 +44,14 @@ Run the Python and SQLite sample from its project directory:
 ```bash
 cd python-sqlite-sample
 python3 app.py
+```
+
+Run the normalization and query optimization lab from the repository root:
+
+```bash
+psql -d learning_lab -f normalization-query-optimization/01_flat_orders.sql
+psql -d learning_lab -f normalization-query-optimization/02_normalized_schema.sql
+psql -d learning_lab -f normalization-query-optimization/03_query_plans.sql
 ```
 
 ## Learning approach
