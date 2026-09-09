@@ -21,6 +21,9 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `jdbc-sample/` | Runnable Java 17 Maven project demonstrating JDBC with SQLite |
 | `python-sqlite-sample/` | Dependency-free Python project demonstrating SQLite with `sqlite3` |
 | `normalization-query-optimization/` | PostgreSQL lab covering 1NF–3NF design and query-plan indexing |
+| `student-enrollment/` | Students, courses, sections, and many-to-many enrollment queries |
+| `library-management/` | Books, copies, authors, members, loans, and overdue reporting |
+| `expense-analytics/` | Accounts, budgets, transactions, and monthly spending analytics |
 
 ## Running the examples
 
@@ -52,6 +55,17 @@ Run the normalization and query optimization lab from the repository root:
 psql -d learning_lab -f normalization-query-optimization/01_flat_orders.sql
 psql -d learning_lab -f normalization-query-optimization/02_normalized_schema.sql
 psql -d learning_lab -f normalization-query-optimization/03_query_plans.sql
+```
+
+The additional database projects use the same PostgreSQL workflow:
+
+```bash
+psql -d learning_lab -f student-enrollment/01_schema.sql
+psql -d learning_lab -f student-enrollment/02_queries.sql
+psql -d learning_lab -f library-management/01_schema.sql
+psql -d learning_lab -f library-management/02_queries.sql
+psql -d learning_lab -f expense-analytics/01_schema.sql
+psql -d learning_lab -f expense-analytics/02_queries.sql
 ```
 
 ## Learning approach
