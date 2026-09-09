@@ -19,6 +19,7 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `examples/02_queries.sql` | Demonstrates beginner-to-intermediate queries |
 | `examples/03_indexes.sql` | Introduces indexes and simple query-plan inspection |
 | `jdbc-sample/` | Runnable Java 17 Maven project demonstrating JDBC with SQLite |
+| `python-sqlite-sample/` | Dependency-free Python project demonstrating SQLite with `sqlite3` |
 
 ## Running the examples
 
@@ -35,6 +36,13 @@ Run the JDBC sample from its project directory:
 ```bash
 cd jdbc-sample
 mvn compile exec:java
+```
+
+Run the Python and SQLite sample from its project directory:
+
+```bash
+cd python-sqlite-sample
+python3 app.py
 ```
 
 ## Learning approach
