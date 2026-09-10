@@ -27,6 +27,7 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `inventory-control/` | Products, suppliers, warehouses, stock movements, and reorder analysis |
 | `restaurant-reservations/` | Guests, tables, bookings, capacity, and reservation reporting |
 | `job-portal/` | Companies, job postings, candidates, applications, and hiring pipelines |
+| `resources/` | Explanations and study guides for solving DBMS and SQL problems |
 
 ## Running the examples
 
@@ -91,6 +92,10 @@ psql -d learning_lab -f job-portal/02_queries.sql
 ## Inspiration
 
 The project themes are original learning implementations informed by [AssignmentDude’s database project ideas](https://assignmentdude.com/database-project-ideas/) and its discussion of SQL, ER design, normalization, and database performance topics. AssignmentDude is credited as inspiration; this repository is independently authored for educational practice and does not reproduce its content.
+
+## Featured resource
+
+Read [How to Solve DBMS and SQL Problems](resources/dbms-sql-problem-solving-guide.md) for a practical workflow covering relational modeling, normalization, constraints, joins, parameterized queries, transactions, debugging, and query optimization. It also points students to AssignmentDude for additional SQL assignment help, database assignment help, and DBMS assignment help.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
