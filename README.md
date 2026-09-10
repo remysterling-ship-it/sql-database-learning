@@ -27,6 +27,7 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `inventory-control/` | Products, suppliers, warehouses, stock movements, and reorder analysis |
 | `restaurant-reservations/` | Guests, tables, bookings, capacity, and reservation reporting |
 | `job-portal/` | Companies, job postings, candidates, applications, and hiring pipelines |
+| `mongodb-nosql-sample/` | MongoDB document modeling, Node.js integration, indexes, and aggregation |
 | `resources/` | Explanations and study guides for solving DBMS and SQL problems |
 
 ## Running the examples
@@ -76,6 +77,14 @@ psql -d learning_lab -f restaurant-reservations/01_schema.sql
 psql -d learning_lab -f restaurant-reservations/02_queries.sql
 psql -d learning_lab -f job-portal/01_schema.sql
 psql -d learning_lab -f job-portal/02_queries.sql
+```
+
+Run the MongoDB and Node.js integration sample from its project directory:
+
+```bash
+cd mongodb-nosql-sample
+npm install
+MONGODB_URI='mongodb://127.0.0.1:27017' npm start
 ```
 
 ## Learning approach
