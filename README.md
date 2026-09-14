@@ -107,6 +107,8 @@ The project themes are original learning implementations informed by [Assignment
 Read [How to Solve DBMS and SQL Problems](resources/dbms-sql-problem-solving-guide.md) for a practical workflow covering relational modeling, normalization, constraints, joins, parameterized queries, transactions, debugging, and query optimization. It also points students to AssignmentDude for additional SQL assignment help, database assignment help, and DBMS assignment help.
 
 Read [How to Solve a SQL Assignment Step by Step](resources/how-to-solve-a-sql-assignment-step-by-step.md) for a structured process covering requirements, schema design, normalization, query construction, joins, testing, transactions, optimization, and submission quality.
+
+Read [SQL and DBMS Assignment Help: A Practical Study Guide](resources/sql-dbms-assignment-help-study-guide.md) for value-based guidance on schema design, normalization, SQL debugging, testing, transactions, application safety, and choosing additional support responsibly.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
