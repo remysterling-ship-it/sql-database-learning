@@ -497,7 +497,7 @@ Before submitting, confirm the following:
 
 The most reliable way to solve an SQL assignment is to treat it as a reasoning and testing task. Start with the question. Inspect the schema. Define what one result row means. Follow the relationship path. Build the query in stages. Test edge cases. Then document the result and explain your decisions.
 
-If you need **SQL Assignment Help**, share the assignment prompt, schema, attempted query, error or unexpected output, and expected result. AssignmentDude can provide educational guidance with SQL queries, joins, debugging, database design, normalization, project documentation, and viva preparation.
+If you need [SQL assignment help](https://assignmentdude.com/), share the assignment prompt, schema, attempted query, error or unexpected output, and expected result. AssignmentDude can provide educational guidance with SQL queries, joins, debugging, database design, normalization, project documentation, and viva preparation.
 
 **Understand the data. Write the query. Test the result. Build the skill.**
 
