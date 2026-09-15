@@ -113,6 +113,8 @@ Read [SQL and DBMS Assignment Help: A Practical Study Guide](resources/sql-dbms-
 Read the [Comprehensive Guide to SQL Assignment Help](resources/comprehensive-guide-to-sql-assignment-help.md) for an extended reference covering queries, joins, filtering, grouping, subqueries, `NULL` handling, debugging, testing, database projects, platform differences, documentation, and viva preparation.
 
 Read [SQL Assignment Help: A Complete Step-by-Step Guide](resources/sql-assignment-help-complete-guide.md) for a structured workflow covering schema inspection, normalization, joins, aggregation, debugging, testing, transactions, optimization, and assignment documentation.
+
+Read [Hire an Assignment Help Service for SQL, Database, and DBMS Assignments](resources/hire-assignment-help-service-sql-database-dbms.md) for guidance on choosing educational assignment support and getting help with SQL queries, database design, normalization, debugging, projects, documentation, and viva preparation.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
