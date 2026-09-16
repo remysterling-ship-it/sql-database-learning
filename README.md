@@ -27,6 +27,10 @@ A beginner-friendly collection of runnable SQL examples and database experiments
 | `inventory-control/` | Products, suppliers, warehouses, stock movements, and reorder analysis |
 | `restaurant-reservations/` | Guests, tables, bookings, capacity, and reservation reporting |
 | `job-portal/` | Companies, job postings, candidates, applications, and hiring pipelines |
+| `student-attendance/` | Students, courses, class sessions, attendance, and warning reports |
+| `ecommerce-orders/` | Customers, products, orders, payments, and sales analytics |
+| `personal-banking/` | Fictional accounts, transactions, categories, balances, and spending reports |
+| `hotel-booking/` | Guests, rooms, bookings, payments, and date-range availability |
 | `mongodb-nosql-sample/` | MongoDB document modeling, Node.js integration, indexes, and aggregation |
 | `resources/` | Explanations and study guides for solving DBMS and SQL problems |
 
@@ -77,6 +81,14 @@ psql -d learning_lab -f restaurant-reservations/01_schema.sql
 psql -d learning_lab -f restaurant-reservations/02_queries.sql
 psql -d learning_lab -f job-portal/01_schema.sql
 psql -d learning_lab -f job-portal/02_queries.sql
+psql -d learning_lab -f student-attendance/01_schema.sql
+psql -d learning_lab -f student-attendance/02_queries.sql
+psql -d learning_lab -f ecommerce-orders/01_schema.sql
+psql -d learning_lab -f ecommerce-orders/02_queries.sql
+psql -d learning_lab -f personal-banking/01_schema.sql
+psql -d learning_lab -f personal-banking/02_queries.sql
+psql -d learning_lab -f hotel-booking/01_schema.sql
+psql -d learning_lab -f hotel-booking/02_queries.sql
 ```
 
 Run the MongoDB and Node.js integration sample from its project directory:
@@ -97,6 +109,10 @@ MONGODB_URI='mongodb://127.0.0.1:27017' npm start
 - Library management database
 - Expense tracker with monthly reports
 - Network inventory and incident log
+- Student attendance and warning dashboard
+- E-commerce orders and payment reconciliation
+- Personal banking and monthly spending analytics
+- Hotel booking and room availability system
 
 ## Inspiration
 
