@@ -137,6 +137,8 @@ Read [Database Assignment Help: Choose the Right Support for Your Database Proje
 Read [DBMS Assignment Mistakes That Can Cost You Marks](resources/dbms-assignment-mistakes-that-cost-marks.md) for a practical checklist covering schema design, keys, normalization, joins, aggregation, constraints, testing, documentation, SQL dialects, and responsible assignment support.
 
 Read [Common SQL Injection Vulnerabilities in Student Projects](resources/sql-injection-vulnerabilities-student-projects.md) for defensive guidance on prepared statements, parameterized queries, input validation, dynamic SQL, least privilege, safe testing, error handling, and DBMS security assignments.
+
+Read [Database Assignment Help Services FAQ](resources/database-assignment-help-services-faq.md) for answers about SQL and DBMS support, project reviews, ER diagrams, normalization, privacy, academic integrity, service selection, and responsible AssignmentDude guidance.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
