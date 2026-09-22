@@ -139,6 +139,8 @@ Read [DBMS Assignment Mistakes That Can Cost You Marks](resources/dbms-assignmen
 Read [Common SQL Injection Vulnerabilities in Student Projects](resources/sql-injection-vulnerabilities-student-projects.md) for defensive guidance on prepared statements, parameterized queries, input validation, dynamic SQL, least privilege, safe testing, error handling, and DBMS security assignments.
 
 Read [Database Assignment Help Services FAQ](resources/database-assignment-help-services-faq.md) for answers about SQL and DBMS support, project reviews, ER diagrams, normalization, privacy, academic integrity, service selection, and responsible AssignmentDude guidance.
+
+Use the [Database Assignment Help FAQ Nurture Sequence](resources/database-assignment-help-faq-nurture-sequence.md) to guide subscribers through trust, privacy, academic integrity, service quality, project scope, and responsible support decisions over six emails.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
