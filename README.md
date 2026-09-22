@@ -141,6 +141,8 @@ Read [Common SQL Injection Vulnerabilities in Student Projects](resources/sql-in
 Read [Database Assignment Help Services FAQ](resources/database-assignment-help-services-faq.md) for answers about SQL and DBMS support, project reviews, ER diagrams, normalization, privacy, academic integrity, service selection, and responsible AssignmentDude guidance.
 
 Use the [Database Assignment Help FAQ Nurture Sequence](resources/database-assignment-help-faq-nurture-sequence.md) to guide subscribers through trust, privacy, academic integrity, service quality, project scope, and responsible support decisions over six emails.
+
+Use the [Database Assignment Help FAQ Social Posts](resources/database-assignment-help-faq-social-posts.md) for LinkedIn and Twitter/X promotion focused on student skepticism, privacy, ethics, service quality, and responsible support.
 - Java application connected to a PostgreSQL database
 
 Contributions that improve explanations or add portable examples are welcome.
